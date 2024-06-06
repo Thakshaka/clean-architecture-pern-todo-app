@@ -7,7 +7,13 @@ const TodoRoutes = (database) => {
   const controller = TodoController(database)
 
   router.route('/')
+    .get(controller.getAllTodos)
     .post(controller.addNewTodo)
+
+  router.route('/:id')
+    .get(controller.getTodo)
+    .put(controller.updateTodo)
+    .delete(controller.deleteTodo)
 
   return router
 }
