@@ -23,7 +23,7 @@ Implemented Clean Architecture (Server Side)
 
 Live Demo: [View](https://pern-todo-app-client-kt8xcb4qz-thakshakas-projects.vercel.app/)
 
-## Deploy locally
+## Deploy Locally
 
 1. Make sure to update config.json with your credentials
    ```
