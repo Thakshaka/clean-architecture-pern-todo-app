@@ -1,6 +1,6 @@
 # Simple To Do Using PERN Stack
 
-Implemented Clean Architecture
+Implemented Clean Architecture (Server Side)
 
 <img src="./src/TheCleanArchitecture.jpg" alt="The Clean Architecture" width="500"/>
 
