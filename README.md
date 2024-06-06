@@ -2,7 +2,7 @@
 
 Implemented Clean Architecture
 
-<img src="TheCleanArchitecture.jpg" alt="The Clean Architecture" width="500"/>
+<img src="./src/TheCleanArchitecture.jpg" alt="The Clean Architecture" width="500"/>
 
 ## Tech Stack
 1. PostgreSQL
