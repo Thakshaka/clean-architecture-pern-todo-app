@@ -17,9 +17,9 @@ Implemented Clean Architecture (Server Side)
 1. Postman
 
 ## Hosting
-1. Frontend - Vercel
-2. Backend - Vercel
-3. Database - Supabase
+1. Frontend - Local
+2. Backend - Local
+3. Database - PostgreSQL
 
 Live Demo: [View](https://pern-todo-app-client-kt8xcb4qz-thakshakas-projects.vercel.app/)
 
