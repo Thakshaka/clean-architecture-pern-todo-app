@@ -2,6 +2,8 @@
 
 Implemented Clean Architecture
 
+![The Clean Architecture](TheCleanArchitecture.jpg)
+
 ## Tech Stack
 1. PostgreSQL
 2. Express.js
